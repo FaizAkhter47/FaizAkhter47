@@ -1,39 +1,36 @@
-# Faiz Akhter - DevOps Engineer
+<h1 align="center">Hi 👋, I'm Faiz Akhter</h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
-Welcome to my GitHub profile! I'm Faiz Akhter, a passionate **DevOps Engineer** with a deep interest in automation, cloud technologies, and CI/CD processes. I aim to bridge the gap between development and operations to ensure smooth, efficient, and scalable software delivery.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizakhter47&label=Profile%20views&color=0e75b6&style=flat" alt="faizakhter47" /> </p>
 
-## 🔧 Skills
-- **CI/CD**: Automating build, test, and deployment pipelines.
-- **Docker**: Containerization for consistent environments.
-- **Kubernetes**: Orchestrating containerized applications.
-- **AWS**: Managing cloud infrastructure and services.
-- **Terraform**: Infrastructure as Code (IaC) for provisioning resources.
-- **Linux**: Command-line expertise for system administration.
-- **Git & GitHub**: Version control for collaborative coding.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizakhter47" alt="faizakhter47" /></a> </p>
 
-## 🚀 Projects
-I am constantly working on projects to improve my DevOps skills. Some of the key repositories include:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-1. **[CI/CD Pipeline Setup](https://github.com/your-username/project-name)** - A sample setup of a CI/CD pipeline using Jenkins, Docker, and Kubernetes.
-2. **[AWS Automation Scripts](https://github.com/your-username/project-name)** - Automation scripts for managing AWS resources using Terraform.
-3. **[Docker Compose Configurations](https://github.com/your-username/project-name)** - A collection of Docker Compose files for setting up multiple services.
-4. **[Kubernetes Deployments](https://github.com/your-username/project-name)** - Kubernetes configurations for deploying scalable applications.
+- 🔭 I’m currently working on **Node.js Project**
 
-## 📚 Learning & Growth
-I believe in continuous learning, and I am always looking to expand my knowledge in areas like:
+- 🌱 I’m currently learning **TODO App**
 
-- Cloud security best practices
-- Advanced Kubernetes and Helm charts
-- Monitoring and logging (e.g., Prometheus, Grafana)
-- Serverless architecture
+- 📝 I regularly write articles on [NULL](NULL)
 
-## 📫 How to Reach Me
-Feel free to connect with me:
+- 💬 Ask me about **DevOps**
 
-- Email: [faizakhter47@gmail.com](mailto:faizakhter47@gmail.com)
-- LinkedIn: [Faiz Akhter](https://www.linkedin.com/in/faizakhter)
-- GitHub: [faizakhter47](https://github.com/faizakhter47)
+- 📫 How to reach me **faizakhter47@gmail.com**
 
----
+- 📄 Know about my experiences [NULL](NULL)
 
-Thank you for visiting my GitHub profile! I'm always open to collaborating and learning from others in the DevOps community.
+- ⚡ Fun fact **I think I m FUnNyyY**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_itx_faiz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itx_faiz_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizakhter47&show_icons=true&locale=en&layout=compact" alt="faizakhter47" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizakhter47&show_icons=true&locale=en" alt="faizakhter47" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizakhter47&" alt="faizakhter47" /></p>
